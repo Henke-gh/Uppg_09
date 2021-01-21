@@ -64,9 +64,8 @@ namespace Uppg_09
             {
                 Console.WriteLine("You got beat by ones and zeroes..");
             }
-
-
-
+            
+            Console.WriteLine("\nJig's up, we're done. Press any key to exit.");
             Console.ReadKey();
         }
 
