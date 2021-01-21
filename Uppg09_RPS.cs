@@ -12,8 +12,8 @@ namespace Uppg_09
             int pickRPS = randomRPS(0,2);
                 
                 switch (pickRPS)
-                {
-                    case 0:
+             {
+                     case 0:
                         Console.WriteLine("Computer chose ROCK.");
                         break;
                     case 1:
