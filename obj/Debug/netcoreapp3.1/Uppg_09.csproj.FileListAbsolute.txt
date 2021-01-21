@@ -1,0 +1,13 @@
+C:\Users\ahenr\Documents\GitHub\Uppg_09\bin\Debug\netcoreapp3.1\Uppg_09.exe
+C:\Users\ahenr\Documents\GitHub\Uppg_09\bin\Debug\netcoreapp3.1\Uppg_09.deps.json
+C:\Users\ahenr\Documents\GitHub\Uppg_09\bin\Debug\netcoreapp3.1\Uppg_09.runtimeconfig.json
+C:\Users\ahenr\Documents\GitHub\Uppg_09\bin\Debug\netcoreapp3.1\Uppg_09.runtimeconfig.dev.json
+C:\Users\ahenr\Documents\GitHub\Uppg_09\bin\Debug\netcoreapp3.1\Uppg_09.dll
+C:\Users\ahenr\Documents\GitHub\Uppg_09\bin\Debug\netcoreapp3.1\Uppg_09.pdb
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.csprojAssemblyReference.cache
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.AssemblyInfoInputs.cache
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.AssemblyInfo.cs
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.csproj.CoreCompileInputs.cache
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.dll
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.pdb
+C:\Users\ahenr\Documents\GitHub\Uppg_09\obj\Debug\netcoreapp3.1\Uppg_09.genruntimeconfig.cache
